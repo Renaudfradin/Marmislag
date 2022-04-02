@@ -37,6 +37,9 @@ define( 'DB_CHARSET', 'utf8mb4' );
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
+/*** FTP login settings ***/
+define('FS_METHOD', 'direct');
+
 /**#@+
  * Authentication unique keys and salts.
  *
@@ -83,10 +86,10 @@ define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
-
+define ('WPLANG', 'fr_FR');
 
 /* That's all, stop editing! Happy publishing. */
-
+define('WP_MEMORY_LIMIT', '96M');
 /** Absolute path to the WordPress directory. */
 if ( ! defined( 'ABSPATH' ) ) {
 	define( 'ABSPATH', __DIR__ . '/' );
