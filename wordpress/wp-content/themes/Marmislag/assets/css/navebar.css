@@ -1,0 +1,59 @@
+.nav_home{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.nav_home_title{
+    font-family: 'Odibee Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    color: #1E2D2F;
+    height: 40px;
+    text-decoration: none;
+}
+
+.nav_home_title p{
+    margin: 0%;
+}
+.nav_btn_login{
+    height: 40px;
+    color: #FACE23;
+    background: #FFFFFF;
+    border: 1px solid #FACE23;
+    box-sizing: border-box;
+    border-radius: 4px;
+    width: 108px;
+}
+.nav_btn_login a{
+    text-decoration: none;
+    color: #FACE23;
+}
+
+.nav_btn_signup{
+    height: 40px;
+    background: #FACE23;
+    box-sizing: border-box;
+    border-radius: 4px;
+    width: 108px;
+}
+
+.nav_btn_signup a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.nav_form{
+    width: 50%;
+}
+
+.nav_input{
+    width: 100%;
+    height: 36px;
+    background: #FFFFFF;
+    border: 1px solid #7D8491;
+    box-sizing: border-box;
+    border-radius: 19px;
+}
