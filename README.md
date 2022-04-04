@@ -10,7 +10,7 @@ user : root
 
 password : password 
 
-database : MarmitonData
+database : MarmishlagData
 
 
 site :
