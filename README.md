@@ -1,4 +1,4 @@
-# Marmislag
+# Marmishlag
 
 docker-compose up -d
 
@@ -10,7 +10,7 @@ user : root
 
 password : password 
 
-database : MarmitonData
+database : MarmishlagData
 
 
 site :
