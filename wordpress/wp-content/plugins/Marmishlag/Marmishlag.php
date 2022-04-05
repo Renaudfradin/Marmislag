@@ -44,7 +44,7 @@ add_action('save_post','save_metabox_marmishlag');
 
 if (get_post_meta(get_the_id(), 'promomarmishlag', true)) {
   ?>
-    <p>contenue en promo</p>
+    <p>contenu en promo</p>
   <?php
 }
 
