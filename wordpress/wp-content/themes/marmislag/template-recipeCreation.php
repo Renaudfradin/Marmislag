@@ -12,6 +12,6 @@
         <h2>Page de création de recette</h2>
     </div>
 
-<?php echo do_shortcode( " [forminator_form id='104']" ); ?>
+<?php echo do_shortcode( " [forminator_form id='108']" ); ?>
 
 <?php get_footer(); ?>
