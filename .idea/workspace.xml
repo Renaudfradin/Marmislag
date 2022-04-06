@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2c5ccdab-7e27-4671-b1e8-dac046cb1544" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/partials/post-card.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/partials/post-card.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarmishlagData.sql" beforeDir="false" afterPath="$PROJECT_DIR$/MarmishlagData.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -83,6 +84,7 @@
       <workItem from="1649236027385" duration="588000" />
       <workItem from="1649236926228" duration="12103000" />
       <workItem from="1649250842919" duration="1060000" />
+      <workItem from="1649264301566" duration="555000" />
     </task>
     <servers />
   </component>
@@ -99,5 +101,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
