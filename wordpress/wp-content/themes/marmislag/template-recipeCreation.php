@@ -12,7 +12,6 @@
         <h2>Page de création de recette</h2>
     </div>
 
-
-<?php get_template_part('partials/recipe', 'post')?>
+<?php echo do_shortcode( " [forminator_form id='104']" ); ?>
 
 <?php get_footer(); ?>
