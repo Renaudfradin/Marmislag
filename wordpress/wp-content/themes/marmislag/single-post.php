@@ -3,7 +3,8 @@
 <?php if (have_posts()) : ?>
         <?php while (have_posts()) : the_post(); ?>
                 <div class="card">
-                    <a class="btn btn-primary mb-4 mt-4" href="http://localhost:5555/thumbnail?postId='.<?php the_ID(); ?>.'" role="button">Gestion de l'image</a>
+                    <!-- <a class="btn btn-primary mb-4 mt-4" href="http://localhost:5555/thumbnail?postId='.<?php the_ID(); ?>.'" role="button">Gestion de l'image</a>
+                    -->
                     <img src="<?php the_post_thumbnail_url(); ?>" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h2 class="card-title"><?php the_title(); ?></h2>
@@ -20,6 +21,14 @@
         <p> <?php comments_template();?></p>
     </div>
 </div>
+
+<!-- bon le bail de style en bas, ne pas en tenir rigueur -->
+
+<style>
+    #comment {
+        width: 100%;
+    }
+</style>
 
 
 <?php get_footer(); ?>

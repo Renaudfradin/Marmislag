@@ -1,22 +1,10 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light mt-4">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="/">Footer</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
-            <div style="height:10px;">
-
-                <?php wp_nav_menu([
-                    'theme_location' => 'header',
-                    'menu_class' => 'navbar-nav me-auto mb-2 mb-lg-0',
-                    'container' => false
-                ]); ?>
-            </div>
-
-        </div>
+<nav class="navbar navbar-expand-lg navbar-light bg-light mt-4" style="display:flex; justify-content:center;">
+    <div class="container-fluid d-flex justify-center" style="display:flex; justify-content:center;flex-wrap: wrap;">
+        <a class="navbar-brand" style="    display: flex;
+    width: 100%;" href="/">
+            <p style="    overflow-wrap: break-word;
+    overflow: hidden;    margin-bottom: 0;">© 2022 Marmishlag, Inc. Tous droits réservés</p>
+        </a>
     </div>
 </nav>
 

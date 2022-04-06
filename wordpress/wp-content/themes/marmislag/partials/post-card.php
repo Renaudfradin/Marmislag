@@ -1,6 +1,7 @@
-<div class="card">
-    <img src="<?php the_post_thumbnail_url(); ?>" class="card-img-top" alt="..." style="max-width: 300px; height: auto;">
-    <div class="card-body">
+<div class="card mb-4 mr-2 ml-2">
+    <img src="<?php the_post_thumbnail_url(); ?>" class="card-img-top" alt="..." style="width: 250px; height: 150px;
+    overflow: hidden;">
+    <div class="card-body d-flex flex-column justify-content-end">
 
         <?php if (get_post_meta(get_the_ID(), 'promomarmishlag', true)) : ?>
             <div class="alert alert-primary" role="alert">

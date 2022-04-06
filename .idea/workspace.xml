@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c5ccdab-7e27-4671-b1e8-dac046cb1544" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/MarmishlagData.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/partials/categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/partials/categories.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/partials/post-card.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/partials/post-card.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/partials/thumbnail.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/partials/thumbnail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/searchform.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/searchform.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/single-post.php" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/single-post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/marmislag/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +68,16 @@
       <recent name="C:\Users\lucas\Desktop\hetic\Marmislag\wordpress\wp-content\themes\marmislag" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="header.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Marmislag/wordpress/wp-content/themes/marmislag/header.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.header.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,6 +88,8 @@
       <updated>1649162782253</updated>
       <workItem from="1649162783539" duration="33893000" />
       <workItem from="1649199587603" duration="135000" />
+      <workItem from="1649236027385" duration="588000" />
+      <workItem from="1649236926228" duration="9136000" />
     </task>
     <servers />
   </component>
