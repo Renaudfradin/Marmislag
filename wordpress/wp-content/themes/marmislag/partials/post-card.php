@@ -20,7 +20,6 @@
             <p class="mr-1"><small>Type(s) : </small></p>
             <p><small><?php the_terms(get_the_ID(), 'style'); ?></small></p>
         </div>
-        <p class="card-text"><?php the_excerpt(); ?></p>
         <a href="<?php the_permalink(); ?>" class="btn btn-primary">Lire plus</a>
     </div>
 </div>
